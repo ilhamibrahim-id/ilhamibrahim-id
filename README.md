@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/ilhamibrahim-id">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilhamibrahim-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia" alt="ilhamibrahim-id" />
 </a>
 </p>
 
@@ -40,3 +41,4 @@ Here are some ideas to get you started:
 <a href="mailto:ii.ilhamibrahim@gmail.com"><img src="https://img.shields.io/badge/-ii.ilhamibrahim@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ilhamibrahim-id&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamibrahim-id" /> </p>
