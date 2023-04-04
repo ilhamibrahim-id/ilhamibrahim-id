@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/ilhamibrahim-id">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilhamibrahim-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="191em" src="https://github-readme-stats.vercel.app/api?username=ilhamibrahim-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia" alt="ilhamibrahim-id" />
 </a>
 </p>
