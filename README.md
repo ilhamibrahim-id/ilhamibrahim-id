@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/ilhamibrahim-id">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=ilhamibrahim-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="230em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ilhamibrahim-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="210em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia"/>
  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ilhamibrahim-id">
-    <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia" alt="ilhamibrahim-id"/>
+    <img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia" alt="ilhamibrahim-id"/>
 <br> <br/> 
     <img width="900" src="https://github-readme-activity-graph.cyclic.app/graph?username=ilhamibrahim-id&theme=tokyo-night" alt="ilhamibrahim-id"/>        
 </a>
