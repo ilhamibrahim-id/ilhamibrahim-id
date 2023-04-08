@@ -1,4 +1,6 @@
-### Hi there👋 I am Ilham Ibrahim.
+<h2> Hello there! I am Ilham Ibrahim <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
+<p align='center'>
+</p>
 
 <!--
 **ilhamibrahim-id/ilhamibrahim-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,14 +29,23 @@ Here are some ideas to get you started:
 -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/ilhamibrahim-id">
-  <img height="191em" src="https://github-readme-stats.vercel.app/api?username=ilhamibrahim-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia" alt="ilhamibrahim-id" />
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=ilhamibrahim-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="230em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia"/>
+ </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ilhamibrahim-id">
+    <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamibrahim-id&layout=compact&langs_count=8&theme=algolia" alt="ilhamibrahim-id"/>
+<br> <br/> 
+    <img width="900" src="https://github-readme-activity-graph.cyclic.app/graph?username=ilhamibrahim-id&theme=tokyo-night" alt="ilhamibrahim-id"/>        
 </a>
 </p>
 
+
+<br> <br/> 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
@@ -42,3 +53,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ilhamibrahim-id&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamibrahim-id" /> </p>
+
+
+
+
+
+
+
